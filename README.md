@@ -483,6 +483,8 @@ Para o tópico **011 — Criar um usuário**, você pode substituir `—` por:
 
 Use links externos para vídeos grandes; isso evita aumentar desnecessariamente o tamanho do repositório.
 
+<br/>
+
 ---
 
 *Projeto pessoal de aprendizado e laboratório. Não representa documentação oficial de empregadores ou clientes.*
