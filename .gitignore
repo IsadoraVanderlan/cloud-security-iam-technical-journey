@@ -1,0 +1,24 @@
+# Segredos e credenciais
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.kdbx
+*credential*
+*secret*
+
+# Ambientes e arquivos temporários
+.vscode/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Máquinas virtuais e imagens pesadas
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.iso

@@ -6,6 +6,10 @@ Este repositório registra minha evolução prática em **Active Directory, Powe
 
 **Objetivo:** desenvolver competências de operação, investigação, auditoria e automação de acessos em ambientes corporativos.
 
+<p align="center">
+  <img src="./imgs/gif-iam.gif" width="850" alt="Cloud Security & IAM">
+</p>
+
 ### Como navegar
 
 - Clique em uma **etapa** para abrir os tópicos. Todas começam recolhidas.
