@@ -6,9 +6,12 @@ Este repositório registra minha evolução prática em **Active Directory, Powe
 
 **Objetivo:** desenvolver competências de operação, investigação, auditoria e automação de acessos em ambientes corporativos.
 
+
 <p align="center">
-  <img src="./imgs/gif-iam.gif" width="850" alt="Cloud Security & IAM">
+  <img src="./assets/cloud-security-iam.png" alt="Cloud Security & IAM | Technical Development & Hands-on Labs" width="750">
 </p>
+
+<br/>
 
 ### Como navegar
 
@@ -18,6 +21,8 @@ Este repositório registra minha evolução prática em **Active Directory, Powe
 - Marque o status com `⬜` (pendente), `🟡` (em estudo) ou `✅` (concluído).
 
 > **Segurança:** publique somente exemplos fictícios e dados de laboratório. Não exponha informações internas, credenciais, nomes de clientes ou evidências de produção.
+
+<br/>
 
 ## Trilha de aprendizado
 
@@ -454,6 +459,8 @@ Este repositório registra minha evolução prática em **Active Directory, Powe
 
 </details>
 
+<br/>
+
 ## Organização dos arquivos
 
 ```text
@@ -464,6 +471,7 @@ gestao-acessos-n1/
 ├── scripts/         # Scripts PowerShell e Bash
 └── videos/          # Links ou pequenos vídeos demonstrativos
 ```
+<br/>
 
 ### Exemplo de preenchimento
 
