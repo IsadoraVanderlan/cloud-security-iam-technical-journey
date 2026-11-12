@@ -8,7 +8,7 @@ Este repositório registra minha evolução prática em **Active Directory, Powe
 
 
 <p align="center">
-  <img src="./imgs/iam.png" alt="Cloud Security & IAM | Technical Development & Hands-on Labs" width="750">
+  <img src="./imgs/iam.jpg" alt="Cloud Security & IAM | Technical Development & Hands-on Labs" width="750">
 </p>
 
 <br/>
